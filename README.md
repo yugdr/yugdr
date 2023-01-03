@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on cool projects
 - 📫 How to reach me: connect via [LinkedIn](https://www.linkedin.com/in/yugu20/)
 
-![](https://komarev.com/ghpvc/?username=yugdr)
+![](https://komarev.com/ghpvc/?username=yugdr&style=flat-square)
 
