@@ -4,7 +4,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20%I%27m%20Yu&fontSize=60&animation=fadeIn&fontAlignY=35)
 
 - 🌱 I’m currently learning everything about Frontend
-- 👯 I’m looking to collaborate on sustainable projects
 - 📫 How to reach me: connect via [LinkedIn](https://www.linkedin.com/in/yugu20/)
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yugdr&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
